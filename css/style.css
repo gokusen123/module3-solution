@@ -62,3 +62,6 @@ span.s {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid orange;
 }
+#collapsable-nav {
+  font-size: 1em;
+}
