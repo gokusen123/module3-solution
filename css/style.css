@@ -44,3 +44,18 @@ span.s {
   right: 49%;
   text-align: left;
 }
+.row {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .col-lg-12 {
+    float: left;
+    width: 100%;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-12 {
+    float: left;
+    width: 100%;
+  }
+}
