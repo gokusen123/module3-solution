@@ -1,7 +1,8 @@
 #header-nav {
-  background-color: blue;
+  background-color: gray;
   border-radius: 0;
   border: 5px solid black;
   font-family: Comic Sans MS;
-  font-size: 20px;
+  font-size: 30px;
+  height: 50px;
 }
