@@ -18,7 +18,7 @@ border-radius: 6px;
   background-color: black;
 }
 .navbar-toggle .icon-bar + .icon-bar {
-  margin-top: 4px;
+  margin-top: 6px;
 }
 @media (min-width: 768px) {
   .navbar-toggle {
