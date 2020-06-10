@@ -71,10 +71,8 @@ span.s {
 #nav-list a {
   color: orange;
   text-align: center;
+  font-size: 1em;
 }
 #nav-list a.hover {
   background: pink;
-}
-#nav-list a span {
-  font-size: 1.5em;
 }
