@@ -47,7 +47,7 @@ span.s {
 .row {
   width: 100%;
 }
-@media (min-width: 992px) {
+/*@media (min-width: 992px) {
   .col-lg-12 {
     float: left;
     width: 100%;
@@ -58,7 +58,7 @@ span.s {
     float: left;
     width: 100%;
   }
-}
+}*/
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid orange;
 }
